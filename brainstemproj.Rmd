@@ -1,0 +1,23 @@
+---
+title: "Brainstem project"
+author: "JS"
+date: "13 September 2016"
+output: html_document
+---
+
+This document describes the data analysis procedures for a project investigating the contribution of bulbospinal motor tracts (descending from the brainstem to the spinal cord) to muscle responses observed following TMS. We will independently modulate the activity state of the vestibulospinal tract using galvanic vestibular stimulation and the tectospinal tract using moving visual stimuli. 
+
+Types of data we will analyse:
+ - EMG data from XX muscles
+ - Motion data from Vicon
+ - Force plate data
+ - Trigger data for GVS, TMS, occlusion goggles...
+ 
+ What we will measure:
+ - Latency of inflection points in MEPs
+ - Amplitude of EMG signal between inflection points
+ - Correspondance of inflection points between muscles (need to time shift MEPs to account for distance from CNS)
+ 
+
+
+
